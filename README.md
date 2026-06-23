@@ -1,5 +1,13 @@
 # HubSpot RevOps Pipeline Cleanup & MQL Handoff Review
 
+## Executive Summary
+
+Built a HubSpot RevOps workflow to clean up CRM records, review marketing-to-sales handoff issues, create follow-up tasks, organize active deals, build a saved pipeline review view, and create a dashboard for pipeline health and forecast visibility.
+
+**Focus Areas:** CRM hygiene, MQL review, sales follow-up, deal pipeline visibility, dashboard reporting  
+**Tools Used:** HubSpot CRM, HubSpot Deals, HubSpot Tasks, HubSpot Dashboards, GitHub  
+**Output:** Cleaner CRM workflow, documented cleanup actions, saved pipeline view, and leadership-ready dashboard
+
 ## Real-World Revenue Operations Scenario
 
 It’s Monday morning.
@@ -267,6 +275,7 @@ By the end of the workflow, I had built:
 * A HubSpot CRM Pipeline Health Dashboard
 * Screenshot documentation showing the full workflow
 
+
 In plain English:
 
 I turned a messy HubSpot setup into a cleaner marketing-to-sales pipeline workflow.
@@ -319,7 +328,20 @@ This project demonstrates how I would approach a real RevOps workflow inside Hub
 * Turn messy CRM activity into a cleaner revenue workflow
 
 ---
+## What This Shows
 
+This project shows practical RevOps skills that translate directly into real sales and marketing operations work:
+
+- CRM record cleanup and organization
+- Marketing-to-sales handoff review
+- Lead status and ownership review
+- Pipeline creation and deal tracking
+- Sales follow-up task management
+- Saved view creation for operational workflows
+- Dashboard reporting for leadership visibility
+- Clear documentation of business process and outcomes
+
+  
 ## Summary
 
 This HubSpot RevOps project shows how CRM cleanup, MQL-style lead review, sales follow-up, and pipeline reporting all connect.
